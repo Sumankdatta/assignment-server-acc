@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "suman",
+        "gender": "male",
+        "contact": "01715111111",
+        "address": "barishal",
+        "photoUrl": "https://i.ibb.co/yF2fP1M/nonte.jpg"
+    },
+    {
+        "id": 2,
+        "name": "apu",
+        "gender": "female",
+        "contact": "01715777111",
+        "address": "nowakhali",
+        "photoUrl": "https://i.ibb.co/Zz0dbbq/doc1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "diya",
+        "gender": "female",
+        "contact": "01715111111",
+        "address": "dhaka",
+        "photoUrl": "https://i.ibb.co/HxtY6vj/doc.jpg"
+    },
+    {
+        "id": 4,
+        "name": "nirab",
+        "gender": "male",
+        "contact": "01715111111",
+        "address": "faridpur",
+        "photoUrl": "https://i.ibb.co/F8k5zLL/boss.png"
+    },
+    {
+        "id": 5,
+        "name": "sanjita",
+        "gender": "female",
+        "contact": "01715111111",
+        "address": "madaripur,",
+        "photoUrl": "https://i.ibb.co/5kp4rdJ/doc3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "deba",
+        "gender": "female",
+        "contact": "017152222211",
+        "address": "dhaka,",
+        "photoUrl": "https://i.ibb.co/PZ3RJmX/doc2.jpg"
+    },
+    {
+        "id": 7,
+        "name": "sumana",
+        "gender": "female",
+        "contact": "01717878111",
+        "address": "barishal,gournadi",
+        "photoUrl": "https://i.ibb.co/S7BWG80/doc4.jpg"
+    }
+]
